@@ -91,7 +91,9 @@ This project is still in development, and the next steps will include:
 - Authentication & Security: Implement user authentication and secure API endpoints.
 - Docker & CI/CD: Dockerize the application and set up automated deployment pipelines.
 
-⭐ Support & Collaboration
+
+## ⭐ **Support & Collaboration**
+
 If you find this project interesting, feel free to star this repository ⭐ and reach out to me for collaboration!  
 
 
