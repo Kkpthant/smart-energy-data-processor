@@ -81,6 +81,7 @@ http://127.0.0.1:8000/fetch-energy
 }
 
 ```
+---
 
 ## 🔜 **Next Steps**
 
@@ -91,6 +92,7 @@ This project is still in development, and the next steps will include:
 - Authentication & Security: Implement user authentication and secure API endpoints.
 - Docker & CI/CD: Dockerize the application and set up automated deployment pipelines.
 
+---
 
 ## ⭐ **Support & Collaboration**
 
