@@ -31,19 +31,19 @@ git clone https://github.com/your-username/smart-energy-data-processor.git
 cd smart-energy-data-processor
 
 ```
-### **2️⃣ Create and Activate a Virtual Environment
+### **2️⃣ Create and Activate a Virtual Environment**
 ```bash
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate    # On Windows
 
 ```
-### **3️⃣ Install Dependencies
+### **3️⃣ Install Dependencies**
 ```bash
 pip install -r requirements.txt
 
 ```
-### **4️⃣ Set Up PostgreSQL Database
+### **4️⃣ Set Up PostgreSQL Database**
 Ensure PostgreSQL is installed and running.
 ```bash
 psql -U postgres -d energy_db
@@ -61,13 +61,13 @@ CREATE TABLE energy_data (
 );
 
 ```
-## **5️⃣ Run the Application
+## **5️⃣ Run the Application**
 The FastAPI server will run at: http://127.0.0.1:8000
 ```bash
 uvicorn main:app --reload
 
 ```
-## **6️⃣ Test the API
+## **6️⃣ Test the API**
 http://127.0.0.1:8000/fetch-energy
 ✅ Expected Response:
 ```json
