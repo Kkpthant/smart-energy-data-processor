@@ -81,7 +81,9 @@ http://127.0.0.1:8000/fetch-energy
 }
 
 ```
-🔜 Next Steps
+
+##🔜 **Next Steps**
+
 This project is still in development, and the next steps will include:
 
 - Deployment: Deploy the FastAPI application to AWS Elastic Beanstalk (or an alternative cloud provider).
