@@ -69,6 +69,7 @@ uvicorn main:app --reload
 ```
 ## **6️⃣ Test the API**
 http://127.0.0.1:8000/fetch-energy
+
 ✅ Expected Response:
 ```json
 {
